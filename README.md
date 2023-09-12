@@ -25,3 +25,8 @@ Các chức năng Thêm Sửa Xóa Tìm sinh viên và thao tác thoát , làm t
 
 
 tôi cần nhớ:     private static String DB_URL = "jdbc:sqlserver://DESKTOP-6USCVFE\\SQLEXPRESS:1433;database=testdb;encrypt=true;trustServerCertificate=true;";
+![image](https://github.com/hiepnx03/PROJECT-QLSV-JAVASWING-MSSQL/assets/71397941/b52402a9-dece-42b7-8921-01035851b5ae)
+properties ở hình DB DESKTOP > security > SQL sever and windown 
+ở mục security > login > sa >Geneal > tích SQL sever authentic 
+tiếp đó vào status > login > enabaled
+quay trở về Geneal của security nhập passwword mới
