@@ -22,3 +22,6 @@ Nó trả về 1 đường link Url ta sẽ tận dụng đường link đó đ�
 lúc đăng nhập thành công
 ![image](https://github.com/hiepnx03/PROJECT-QLSV-JAVASWING-MSSQL/assets/71397941/6a303a24-ed9e-4d4b-af35-7116c98772d6)
 Các chức năng Thêm Sửa Xóa Tìm sinh viên và thao tác thoát , làm trống 
+
+
+tôi cần nhớ:     private static String DB_URL = "jdbc:sqlserver://DESKTOP-6USCVFE\\SQLEXPRESS:1433;database=testdb;encrypt=true;trustServerCertificate=true;";
